@@ -1,0 +1,13 @@
+# --- Librării Core ---
+ultralytics         # Pentru modelul YOLO și Tracking (ByteTrack)
+opencv-python       # Pentru procesare video și desenare măști
+numpy               # Pentru calcule matematice pe imagini
+
+# --- Interfață și Dashboard ---
+streamlit           # Pentru interfața grafică (Web App)
+
+# --- Utilități ---
+pillow              # Necesar pentru procesarea imaginilor în Streamlit
+ 
+
+# comanda instalare: pip install -r requirements.txt
